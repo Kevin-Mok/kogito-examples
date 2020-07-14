@@ -7,7 +7,7 @@
   <parent>
     <groupId>org.kie.kogito</groupId>
     <artifactId>onboarding-example</artifactId>
-    <version>7.14.2</version>
+    <version>7.14.3-SNAPSHOT</version>
   </parent>
   <groupId>org.kie.kogito.examples</groupId>
   <artifactId>onboarding-springboot</artifactId>
